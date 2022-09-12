@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(250, 178, 216);
+    color:white;
+    
+}
+h1{
+    background-color: rgb(126, 210, 237);
+}
+label{
+    color:white;
+    background-color: rgb(212, 158, 235);
+}
+button{
+    background-color: rgb(240, 175, 153);
+    padding: 10px;
+}
+input{
+    height: 30px;
+    width: 200px;
+}
+#text_like{
+    color:white;
+    background-color: rgb(219, 144, 251);
+}
